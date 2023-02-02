@@ -1,0 +1,6 @@
+Step 1 : Get user GPS Co-ordinates
+    1. for this we are using FusedLocationProvider Library
+
+Android development is divided into two major categories
+    1.  App (ie where java code, xml ui files are placed)
+    2.  Gradle Scripts ( contains library which needs to imported, permissions for app required)
